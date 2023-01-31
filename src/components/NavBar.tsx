@@ -6,7 +6,7 @@ const NavBar = () => {
     setMenu(!menu);
   }
   return (
-    <nav className="flex items-center flex-row justify-between my-8 md:my-12">
+    <nav className="flex items-center flex-row justify-between my-8 md:mt-20 md:mb-12">
       <a href="/">
         <img src="./images/logo.svg"></img>
       </a>
